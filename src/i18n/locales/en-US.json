@@ -1,0 +1,14 @@
+{
+  "common": {
+    "lang": { "zh": "中文", "en": "English" },
+    "switchLang": "Switch Language"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "intro": "\"Hundred-Counties, Thousand-Towns, Ten-Thousand-Villages\" Project is the top-priority initiative for Guangdong’s high-quality development launched in Dec 2022. It addresses urban–rural imbalance and advances counties, towns and villages in an integrated manner, building a Guangdong model for urban–rural integration."
+  }
+}
