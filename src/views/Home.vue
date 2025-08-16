@@ -11,4 +11,7 @@ import Navbar from '../components/navbar.vue';
 
 </script>
 
-<style scoped></style>
+<style scoped>
+
+
+</style>
